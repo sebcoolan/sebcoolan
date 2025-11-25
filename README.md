@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @sebcoolan
-- 👀 I’m interested in HTML base coding
-- 🌱 I’m currently learning how to use github
-- 💞️ I’m looking to collaborate on my future project
-- 📫 How to reach me, by using email.
+Let me introduce myself. I go by Sebcoolan, and my mission is to help those who aren't too aware of the sneaky hidden tricks from the IT world. I don't apperiacte it, especially since personal activities should NOT be sent to school. And that's just the tip of the iceberg! So how did I learn all of these "methods" or hidden secrets from computers? I would watch hours worth of computers and information about technology as a way to train myself when I wanted to become a future computer IT or software specialist. I started off from Windows 7, and train from it, all the way up to windows 11 today. Mainly it was to repair old devices to give them another chance. But now, it has evovled this effort, to keep school and personal information seperate along with other things... BUT! Roots are still the cause, and I'm doing small projects by request from those I know. I'm too lazy to keep up with the new patches from here and there. I'm your ordinary computer guy in other words. And I'm doing these type of stuff as a way to spread the word of the new techonolgy changes. I do gaming, modding, and little bit of youtube. Pc building and Sim racing. Not thing much. But I'm a silly goober 😛
 
 <!---
 sebcoolan/sebcoolan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
